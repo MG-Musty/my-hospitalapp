@@ -3,7 +3,6 @@ import { Amplify } from "aws-amplify";
 
 import { Home } from "./Home";
 import { Login } from "./Login";
-// import "./styles.css";
 import "@aws-amplify/ui-react/styles.css";
 
 import awsExports from "./aws-exports";
