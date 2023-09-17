@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyf24d5819eedb4-staging-93034-authRole",
+      "UnauthRoleArn": "arn:aws:iam::400022467413:role/amplify-amplifyf24d5819eedb4-staging-93034-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::400022467413:role/amplify-amplifyf24d5819eedb4-staging-93034-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyf24d5819eedb4-staging-93034-deployment",
+      "UnauthRoleName": "amplify-amplifyf24d5819eedb4-staging-93034-unauthRole",
+      "StackName": "amplify-amplifyf24d5819eedb4-staging-93034",
+      "StackId": "arn:aws:cloudformation:us-east-1:400022467413:stack/amplify-amplifyf24d5819eedb4-staging-93034/85abab30-53aa-11ee-8877-0aa07f05c967",
+      "AmplifyAppId": "d30v7b6ww7qlcx"
+    },
+    "categories": {
+      "auth": {
+        "myhospitalappee97116b": {}
+      }
+    }
+  }
+}
