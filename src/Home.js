@@ -1,7 +1,7 @@
 import { useAuthenticator } from "@aws-amplify/ui-react";
-import React from 'react';
+@import "@aws-amplify/ui-react/styles.css";
 import './App.css';
-import "@aws-amplify/ui-react/styles.css";
+
 
 export function Home() {
   const { signOut, user } = useAuthenticator();
